@@ -1,0 +1,6 @@
+This repository contains some data that is used at [Süddeutsche Zeitung](http://www.sz.de)
+
+| Date         | Story                                                                                                                                                                                                                  | Folder           |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| June 8, 2016 | [Daten zur Europameisterschaft: Deutschland hat das jüngste Team - und das schwerste](http://www.sueddeutsche.de/sport/em-daten-zur-europameisterschaft-deutschland-hat-das-juengste-team-und-das-schwerste-1.3023890) | transfermarkt-em |
+| June 11,2016 | [Daten zur EM: Ein Viertel aller Spieler verdient sein Geld in England](http://www.sueddeutsche.de/sport/fussball-em-daten-zur-em-ein-viertel-aller-spieler-verdient-sein-geld-in-england-1.3028223)                   | transfermarkt-em |
