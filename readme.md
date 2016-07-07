@@ -1,6 +1,30 @@
-This repository contains some data that is used at [Süddeutsche Zeitung](http://www.sz.de)
+# Ländernamen mit ISO-Codes
 
-| Date         | Story                                                                                                                                                                                                                  | Folder           |
-|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| June 8, 2016 | [Daten zur Europameisterschaft: Deutschland hat das jüngste Team - und das schwerste](http://www.sueddeutsche.de/sport/em-daten-zur-europameisterschaft-deutschland-hat-das-juengste-team-und-das-schwerste-1.3023890) | transfermarkt-em |
-| June 11,2016 | [Daten zur EM: Ein Viertel aller Spieler verdient sein Geld in England](http://www.sueddeutsche.de/sport/fussball-em-daten-zur-em-ein-viertel-aller-spieler-verdient-sein-geld-in-england-1.3028223)                   | transfermarkt-em |
+## Variablen
+
+- ``name_de``: deutscher Name für Publikation. Beispiel: Russland
+  
+- ``name_de_official``: offizieller deutscher Name, nicht publizieren. Beispiel: Russische FÃ¶deration
+  
+- ``name_en``: analog ``name_de``
+
+- ``name_en_official``: analog ``name_de_official``
+
+- `iso_alpha_2` nach ISO-3166-1: [Wiki](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste)
+
+- `iso_alpha_3` nach ISO-3166-1: [Wiki](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste)
+
+- `iso_alpha_numeric` nach ISO-3166-1: [Wiki](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste)
+
+
+## Unterschiede zwischen Deutsch und Englisch
+
+Es gibt einige wenige Länder, Inseln oder Regionen, in denen sich die engliscgen und deutschen Länder nicht Ã¼berschneiden:
+
+### Nur in englischen Namen:
+
+| iso_alpha_2 | iso_alpha_3 | name_en                           | iso_numeric | 
+|-------------|-------------|-----------------------------------|-------------| 
+| HM          | HMD         | Heard Island and McDonald Islands | 334         | 
+| BV          | BVT         | Bouvet Island                     | 74          | 
+
