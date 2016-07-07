@@ -4,7 +4,7 @@
 
 - ``name_de``: deutscher Name für Publikation. Beispiel: Russland
   
-- ``name_de_official``: offizieller deutscher Name, nicht publizieren. Beispiel: Russische FÃ¶deration
+- ``name_de_official``: offizieller deutscher Name, nicht publizieren. Beispiel: Russische Föderation
   
 - ``name_en``: analog ``name_de``
 
@@ -19,7 +19,7 @@
 
 ## Unterschiede zwischen Deutsch und Englisch
 
-Es gibt einige wenige Länder, Inseln oder Regionen, in denen sich die engliscgen und deutschen Länder nicht Ã¼berschneiden:
+Es gibt einige wenige Länder, Inseln oder Regionen, in denen sich die engliscgen und deutschen Länder nicht überschneiden:
 
 ### Nur in englischen Namen:
 
