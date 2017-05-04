@@ -1,0 +1,108 @@
+CodDpt3Car	CodMinDpt	CodDpt	name_upper	name.x	name_lower	name_hyphen	name_datawrapper
+001	01	01	AIN	Ain	ain	ain	Ain
+002	02	02	AISNE	Aisne	aisne	aisne	Aisne
+003	03	03	ALLIER	Allier	allier	allier	Allier
+004	04	04	ALPES DE HAUTE PROVENCE	Alpes de haute provence	alpes de haute provence	alpes-de-haute-provence	Alpes-de-Haute-Provence
+005	05	05	HAUTES ALPES	Hautes alpes	hautes alpes	hautes-alpes	Hautes-Alpes
+006	06	06	ALPES MARITIMES	Alpes maritimes	alpes maritimes	alpes-maritimes	Alpes-Maritimes
+007	07	07	ARDECHE	Ardeche	ardeche	ardeche	Ardèche
+008	08	08	ARDENNES	Ardennes	ardennes	ardennes	Ardennes
+009	09	09	ARIEGE	Ariege	ariege	ariege	Ariège
+010	10	10	AUBE	Aube	aube	aube	Aube
+011	11	11	AUDE	Aude	aude	aude	Aude
+012	12	12	AVEYRON	Aveyron	aveyron	aveyron	Aveyron
+013	13	13	BOUCHES DU RHONE	Bouches du rhone	bouches du rhone	bouches-du-rhone	Bouches-du-Rhône
+014	14	14	CALVADOS	Calvados	calvados	calvados	Calvados
+015	15	15	CANTAL	Cantal	cantal	cantal	Cantal
+016	16	16	CHARENTE	Charente	charente	charente	Charente
+017	17	17	CHARENTE MARITIME	Charente maritime	charente maritime	charente-maritime	Charente-Maritime
+018	18	18	CHER	Cher	cher	cher	Cher
+019	19	19	CORREZE	Correze	correze	correze	Corrèze
+02A	2A	2A	CORSE SUD	Corse sud	corse sud	corse-sud	Corse-du-Sud
+02B	2B	2B	HAUTE CORSE	Haute corse	haute corse	haute-corse	Haute-Corse
+021	21	21	COTE D'OR	Cote d'or	cote d'or	cote-d'or	Côte-d'Or
+022	22	22	COTES D'ARMOR	Cotes d'armor	cotes d'armor	cotes-d'armor	Côtes-d'Armor
+023	23	23	CREUSE	Creuse	creuse	creuse	Creuse
+024	24	24	DORDOGNE	Dordogne	dordogne	dordogne	Dordogne
+025	25	25	DOUBS	Doubs	doubs	doubs	Doubs
+026	26	26	DROME	Drome	drome	drome	Drôme
+027	27	27	EURE	Eure	eure	eure	Eure
+028	28	28	EURE ET LOIR	Eure et loir	eure et loir	eure-et-loir	Eure-et-Loir
+029	29	29	FINISTERE	Finistere	finistere	finistere	Finistère
+030	30	30	GARD	Gard	gard	gard	Gard
+031	31	31	HAUTE GARONNE	Haute garonne	haute garonne	haute-garonne	Haute-Garonne
+032	32	32	GERS	Gers	gers	gers	Gers
+033	33	33	GIRONDE	Gironde	gironde	gironde	Gironde
+034	34	34	HERAULT	Herault	herault	herault	Hérault
+035	35	35	ILLE ET VILAINE	Ille et vilaine	ille et vilaine	ille-et-vilaine	Ille-et-Vilaine
+036	36	36	INDRE	Indre	indre	indre	Indre
+037	37	37	INDRE ET LOIRE	Indre et loire	indre et loire	indre-et-loire	Indre-et-Loire
+038	38	38	ISERE	Isere	isere	isere	Isère
+039	39	39	JURA	Jura	jura	jura	Jura
+040	40	40	LANDES	Landes	landes	landes	Landes
+041	41	41	LOIR ET CHER	Loir et cher	loir et cher	loir-et-cher	Loir-et-Cher
+042	42	42	LOIRE	Loire	loire	loire	Loire
+043	43	43	HAUTE LOIRE	Haute loire	haute loire	haute-loire	Haute-Loire
+044	44	44	LOIRE ATLANTIQUE	Loire atlantique	loire atlantique	loire-atlantique	Loire-Atlantique
+045	45	45	LOIRET	Loiret	loiret	loiret	Loiret
+046	46	46	LOT	Lot	lot	lot	Lot
+047	47	47	LOT ET GARONNE	Lot et garonne	lot et garonne	lot-et-garonne	Lot-et-Garonne
+048	48	48	LOZERE	Lozere	lozere	lozere	Lozère
+049	49	49	MAINE ET LOIRE	Maine et loire	maine et loire	maine-et-loire	Maine-et-Loire
+050	50	50	MANCHE	Manche	manche	manche	Manche
+051	51	51	MARNE	Marne	marne	marne	Marne
+052	52	52	HAUTE MARNE	Haute marne	haute marne	haute-marne	Haute-Marne
+053	53	53	MAYENNE	Mayenne	mayenne	mayenne	Mayenne
+054	54	54	MEURTHE ET MOSELLE	Meurthe et moselle	meurthe et moselle	meurthe-et-moselle	Meurthe-et-Moselle
+055	55	55	MEUSE	Meuse	meuse	meuse	Meuse
+056	56	56	MORBIHAN	Morbihan	morbihan	morbihan	Morbihan
+057	57	57	MOSELLE	Moselle	moselle	moselle	Moselle
+058	58	58	NIEVRE	Nievre	nievre	nievre	Nièvre
+059	59	59	NORD	Nord	nord	nord	Nord
+060	60	60	OISE	Oise	oise	oise	Oise
+061	61	61	ORNE	Orne	orne	orne	Orne
+062	62	62	PAS DE CALAIS	Pas de calais	pas de calais	pas-de-calais	Pas-de-Calais
+063	63	63	PUY DE DOME	Puy de dome	puy de dome	puy-de-dome	Puy-de-Dôme
+064	64	64	PYRENEES ATLANTIQUES	Pyrenees atlantiques	pyrenees atlantiques	pyrenees-atlantiques	Pyrénées-Atlantiques
+065	65	65	HAUTES PYRENEES	Hautes pyrenees	hautes pyrenees	hautes-pyrenees	Hautes-Pyrénées
+066	66	66	PYRENEES ORIENTALES	Pyrenees orientales	pyrenees orientales	pyrenees-orientales	Pyrénées-Orientales
+067	67	67	BAS RHIN	Bas rhin	bas rhin	bas-rhin	Bas-Rhin
+068	68	68	HAUT RHIN	Haut rhin	haut rhin	haut-rhin	Haut-Rhin
+069	69	69	RHONE	Rhone	rhone	rhone	Rhône
+070	70	70	HAUTE SAONE	Haute saone	haute saone	haute-saone	Haute-Saône
+071	71	71	SAONE ET LOIRE	Saone et loire	saone et loire	saone-et-loire	Saône-et-Loire
+072	72	72	SARTHE	Sarthe	sarthe	sarthe	Sarthe
+073	73	73	SAVOIE	Savoie	savoie	savoie	Savoie
+074	74	74	HAUTE SAVOIE	Haute savoie	haute savoie	haute-savoie	Haute-Savoie
+075	75	75	PARIS	Paris	paris	paris	Paris
+076	76	76	SEINE MARITIME	Seine maritime	seine maritime	seine-maritime	Seine-Maritime
+077	77	77	SEINE ET MARNE	Seine et marne	seine et marne	seine-et-marne	Seine-et-Marne
+078	78	78	YVELINES	Yvelines	yvelines	yvelines	Yvelines
+079	79	79	DEUX-SEVRES	Deux-sevres	deux-sevres	deux-sevres	Deux-Sèvres
+080	80	80	SOMME	Somme	somme	somme	Somme
+081	81	81	TARN	Tarn	tarn	tarn	Tarn
+082	82	82	TARN ET GARONNE	Tarn et garonne	tarn et garonne	tarn-et-garonne	Tarn-et-Garonne
+083	83	83	VAR	Var	var	var	Var
+084	84	84	VAUCLUSE	Vaucluse	vaucluse	vaucluse	Vaucluse
+085	85	85	VENDEE	Vendee	vendee	vendee	Vendée
+086	86	86	VIENNE	Vienne	vienne	vienne	Vienne
+087	87	87	HAUTE VIENNE	Haute vienne	haute vienne	haute-vienne	Haute-Vienne
+088	88	88	VOSGES	Vosges	vosges	vosges	Vosges
+089	89	89	YONNE	Yonne	yonne	yonne	Yonne
+090	90	90	TERRITOIRE DE BELFORT	Territoire de belfort	territoire de belfort	territoire-de-belfort	Territoire de Belfort
+091	91	91	ESSONNE	Essonne	essonne	essonne	Essonne
+092	92	92	HAUTS DE SEINE	Hauts de seine	hauts de seine	hauts-de-seine	Hauts-de-Seine
+093	93	93	SEINE SAINT-DENIS	Seine saint-denis	seine saint-denis	seine-saint-denis	Seine-Saint-Denis
+094	94	94	VAL DE MARNE	Val de marne	val de marne	val-de-marne	Val-de-Marne
+095	95	95	VAL D'OISE	Val d'oise	val d'oise	val-d'oise	Val-d'Oise
+971	971	ZA	GUADELOUPE	Guadeloupe	guadeloupe	guadeloupe	Guadeloupe
+972	972	ZB	MARTINIQUE	Martinique	martinique	martinique	Martinique
+973	973	ZC	GUYANE	Guyane	guyane	guyane	Guyane française
+974	974	ZD	LA REUNION	La reunion	la reunion	la-reunion	La Réunion
+975	975	ZS	SAINT PIERRE ET MIQUELON	Saint pierre et miquelon	saint pierre et miquelon	saint-pierre-et-miquelon	NA
+976	976	ZM	MAYOTTE	Mayotte	mayotte	mayotte	Mayotte
+977	977	ZX	SAINT-MARTIN SAINT-BARTHELEMY	Saint-martin saint-barthelemy	saint-martin saint-barthelemy	saint-martin-saint-barthelemy	NA
+986	986	ZW	WALLIS-ET-FUTUNA	Wallis-et-futuna	wallis-et-futuna	wallis-et-futuna	NA
+987	987	ZP	POLYNESIE FRANCAISE	Polynesie francaise	polynesie francaise	polynesie-francaise	NA
+988	988	ZN	NOUVELLE CALEDONIE	Nouvelle caledonie	nouvelle caledonie	nouvelle-caledonie	NA
+099	99	ZZ	FRANCAIS ETABLIS HORS DE FRANCE	Francais etablis hors de france	francais etablis hors de france	francais-etablis-hors-de-france	NA
